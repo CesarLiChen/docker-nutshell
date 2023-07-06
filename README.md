@@ -1,4 +1,6 @@
-## Dockerfile  --'bulds' into--> Docker Image --'run it' into--> Docker Container
+## Overview of Docker chain
+
+**Dockerfile**  --'builds' to a--> **Docker Image** --'run it' into a--> **Docker Container**
 
 1. Already having a Dockerfile in the root directory.
 
